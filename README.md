@@ -207,7 +207,7 @@ apresentar três colunas de largura. Na definição de *Peter Kovisi*, pode
 ser entendido como uma linha ou curva desenhada através de um espaço de
 cores tridimensional.
 
-### Default
+### Mapa de cores padrão
 
 **Viridis**, mapa de cores perceptualmente uniforme com luminância
 crescente monotonicamente e um arco suave e agradável em tons de azul,
