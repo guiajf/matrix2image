@@ -340,7 +340,7 @@ Acessado em 06/08/2024: <https://colorcet.com/>.
 
 Moreland, Kenneth (2016). *Why We Use Bad Color Maps and What You Can Do
 About It.* In Proceedings of Human Vision and Electronic Imaging (HVEI),
-February 2016. DOI 10.2352/ISSN.2470-1173.2016.16.HVEI-133.`<br>`{=html}
+February 2016. DOI 10.2352/ISSN.2470-1173.2016.16.HVEI-133.
 
 Moreland, Kenneth (2016). *Color Map Advice for Scientific
 Visualization*. Acessado em 06/08/2024:
