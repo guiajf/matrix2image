@@ -202,7 +202,7 @@ obterTipos(A, B, C, D, Z)
 ### Mapas de cores
 
 Um mapa de cores é uma matriz de valores que define as cores de objetos
-gráficos.`<br>`{=html} Pode ter qualquer comprimento, mas deve
+gráficos.<br>Pode ter qualquer comprimento, mas deve
 apresentar três colunas de largura. Na definição de *Peter Kovisi*, pode
 ser entendido como uma linha ou curva desenhada através de um espaço de
 cores tridimensional.
