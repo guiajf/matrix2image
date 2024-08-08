@@ -29,7 +29,7 @@ axis image % preserva a proporção da imagem
 ```
 
 
-![](vertopal_826d800756e2483aadc9f1520facf32c/2749d400523079d734f53f2c944c157fa45829ba.png)
+![](826d800756e2483aadc9f1520facf32c/2749d400523079d734f53f2c944c157fa45829ba.png)
 
 ### Intermezzo
 
@@ -77,7 +77,7 @@ colormap(gray(256)) % define o mapa de cores
 axis image % preserva a proporção da imagem
 ```
 
-![](vertopal_826d800756e2483aadc9f1520facf32c/89ae91727bac3813de3c297c555cee52cd6267a1.png)
+![](826d800756e2483aadc9f1520facf32c/89ae91727bac3813de3c297c555cee52cd6267a1.png)
 
 ### Imagem binária
 
@@ -93,7 +93,7 @@ imagesc(B);
 colormap gray
 ```
 
-![](vertopal_826d800756e2483aadc9f1520facf32c/49de8ef3dd84afe1483a2b22c80f43bde88f5d8d.png)
+![](826d800756e2483aadc9f1520facf32c/49de8ef3dd84afe1483a2b22c80f43bde88f5d8d.png)
 
 ### Imagem truecolor
 
@@ -113,7 +113,7 @@ C(:,:,3) = [.31 .32 .33; .34 .35 .36; .37 .38 .39]; % azul
 imagesc(C);
 ```
 
-![](vertopal_826d800756e2483aadc9f1520facf32c/67980885067f7a72952a494fbf6c4c6f0eb384d8.png)
+![](826d800756e2483aadc9f1520facf32c/67980885067f7a72952a494fbf6c4c6f0eb384d8.png)
 
 ### Imagem indexada
 
@@ -150,7 +150,7 @@ map
        0.8000   0.2800   0.3800
        0.9000   0.2900   0.3900
 
-![](vertopal_826d800756e2483aadc9f1520facf32c/35ad90689274fa75e7fa141db230efb369cf42e1.png)
+![](826d800756e2483aadc9f1520facf32c/35ad90689274fa75e7fa141db230efb369cf42e1.png)
 
 Por economia de espaço, omitimos a expressão numérica da matriz **Z** e
 do mapa de cores, no exemplo abaixo.
@@ -164,7 +164,7 @@ imagesc(D);
 colormap gray
 ```
 
-![](vertopal_826d800756e2483aadc9f1520facf32c/d3f7ca41223de7b49a019ebf8885f5002d0bd6cd.png)
+![](826d800756e2483aadc9f1520facf32c/d3f7ca41223de7b49a019ebf8885f5002d0bd6cd.png)
 
 ### Classes
 
@@ -225,7 +225,7 @@ imagesc(F)
 colorbar
 ```
 
-![](vertopal_826d800756e2483aadc9f1520facf32c/910cee7ca73c8f60a44dd544811e333dc3f440b2.png)
+![](826d800756e2483aadc9f1520facf32c/910cee7ca73c8f60a44dd544811e333dc3f440b2.png)
 
 ### Exemplos de opções integradas
 
@@ -262,7 +262,7 @@ set(gcf, 'Position', [100, 100, 1200, 600]);
 ```
 
 ::: {.output .display_data}
-![](vertopal_826d800756e2483aadc9f1520facf32c/4cb2e3dd6f39aa1998d7ebc7d7b4c2ff173aef7a.png)
+![](826d800756e2483aadc9f1520facf32c/4cb2e3dd6f39aa1998d7ebc7d7b4c2ff173aef7a.png)
 
 ### ColorCET
 
@@ -278,7 +278,7 @@ colorbar
 colormap(cm)
 ```
 
-![](vertopal_826d800756e2483aadc9f1520facf32c/d1ca4bed561301d01a12501e068aade84a722662.png)
+![](826d800756e2483aadc9f1520facf32c/d1ca4bed561301d01a12501e068aade84a722662.png)
 
 ### Transformações
 
@@ -294,7 +294,7 @@ colorbar
 colormap jet
 ```
 
-![](vertopal_826d800756e2483aadc9f1520facf32c/bfae8534849827742e9b0028afebd8bd2bedf9f5.png)
+![](826d800756e2483aadc9f1520facf32c/bfae8534849827742e9b0028afebd8bd2bedf9f5.png)
 
 Realizamos uma transformação trigonométrica:
 
@@ -307,7 +307,7 @@ colormap jet
 ```
 
 ::: {.output .display_data}
-![](vertopal_826d800756e2483aadc9f1520facf32c/89a309d4156cf34b6e9dbc8e74f74e84043beacf.png)
+![](826d800756e2483aadc9f1520facf32c/89a309d4156cf34b6e9dbc8e74f74e84043beacf.png)
 
 Em seguida efetuamos uma transformação geométrica:
 
@@ -318,7 +318,7 @@ colorbar
 colormap jet
 ```
 
-![](vertopal_826d800756e2483aadc9f1520facf32c/80b87a11feb76706dfc1629739f76c36fbba3231.png)
+![](826d800756e2483aadc9f1520facf32c/80b87a11feb76706dfc1629739f76c36fbba3231.png)
 
 Finalizamos com uma transformação espacial:
 
@@ -329,7 +329,7 @@ colorbar
 colormap jet
 ```
 
-![](vertopal_826d800756e2483aadc9f1520facf32c/4075aed3240aaf01f5452b5f840ad2d4daba660e.png)
+![](826d800756e2483aadc9f1520facf32c/4075aed3240aaf01f5452b5f840ad2d4daba660e.png)
 
 **Referências**:
 
