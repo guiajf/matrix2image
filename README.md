@@ -93,7 +93,7 @@ imagesc(B);
 colormap gray
 ```
 
-![](826d800756e2483aadc9f1520facf32c/49de8ef3dd84afe1483a2b22c80f43bde88f5d8d.png)
+![](49de8ef3dd84afe1483a2b22c80f43bde88f5d8d.png)
 
 ### Imagem truecolor
 
