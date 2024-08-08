@@ -261,7 +261,7 @@ end
 set(gcf, 'Position', [100, 100, 1200, 600]);
 ```
 
-![](826d800756e2483aadc9f1520facf32c/4cb2e3dd6f39aa1998d7ebc7d7b4c2ff173aef7a.png)
+![](4cb2e3dd6f39aa1998d7ebc7d7b4c2ff173aef7a.png)
 
 ### ColorCET
 
