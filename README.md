@@ -121,7 +121,6 @@ mapa de cores e cada linha no mapa de cores corresponde a uma cor
 e 1.
 
 ``` octave
-graphics_toolkit ("gnuplot");
 [D, map] = rgb2ind (C); % Convertemos de RGB para índice de cores
 imagesc(D);
 colormap (map)
