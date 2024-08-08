@@ -333,7 +333,7 @@ GNU Octave version 9.2.0 manual: a high-level interactive language for
 numerical computations.
 
 Kovesi, Peter (2015). Good Colour Maps: How to Design Them.
-arXiv:1509.03700].
+arXiv:1509.03700.
 
 Kovesi, Peter (2024). *ColorCET - Perceptually Uniform Colour Maps*.
 Acessado em 06/08/2024: <https://colorcet.com/>.
