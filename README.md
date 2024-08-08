@@ -169,12 +169,12 @@ classe da matriz. Isto é, a escala esperada dos dados da imagem é
 determinada pela sua classe numérica, definida de acordo com os
 intervalos nominais descritos na tabela abaixo:
 
-  Tipo      Descrição                        Intervalo
-  --------- -------------------------------- -----------
-  logical   Binário                          0 ou 1
-  uint8     Inteiro sem sinal de 8 bits      0-255
-  uint16    Inteiro sem sinal de 16 bits     0-65535
-  double    Real de dupla precisão 64 bits   0 e 1
+  |Tipo     |Descrição                       |Intervalo|
+  |--------- --------------------------------|---------|
+  |logical  |Binário                         |0 ou 1   |
+  |uint8    |Inteiro sem sinal de 8 bits     |0-255    |
+  |uint16   |Inteiro sem sinal de 16 bits    |0-65535  |
+  |double   |Real de dupla precisão 64 bits  |0 e 1    |
 
 Para obtermos as classes das matrizes **A**, **B**, **C**, **D** e
 **Z**, definimos a seguinte função:
