@@ -63,7 +63,7 @@ num_elementos = numel(Z)
 
     num_elementos = 131072
 
-A matriz **Z** tem 131,072 valores (em uma matriz de 256x512)
+A matriz **Z** tem 131.072 valores (em uma matriz de 256x512)
 distribuídos suavemente, resultando em uma imagem com transições muito
 mais suaves entre os níveis de cinza.
 
